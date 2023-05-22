@@ -12,8 +12,7 @@ Discord - Token - Server - Nuker
 </p>
 <p align="center">
  ㅤ•ㅤ
-<a href="">Discord</a> ㅤ•ㅤ
-<a href="">Setup Tutorial Video</a>
+
 </p>
 </p>
 <p align="center">
