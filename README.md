@@ -8,7 +8,7 @@ Discord - Token - Server - Nuker
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=QqLqglDPNCE">TOKEN GENERATOR SHOWCASE</a>
+<a href="">TOKEN GENERATOR SHOWCASE</a>
 </p>
 <p align="center">
  ㅤ•ㅤ
